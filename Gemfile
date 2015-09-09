@@ -4,7 +4,6 @@ gem 'contracts', '~> 0.11'
 gem 'webmachine', '~> 1.4'
 
 group :development do
-  gem 'brakeman', '~> 3.1'
   gem 'bundler', '~> 1.10'
   gem 'flog', '~> 4.3'
   gem 'inch', '~> 0.6'
