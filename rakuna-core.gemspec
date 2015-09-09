@@ -34,6 +34,7 @@ Gem::Specification.new do |s|
     "lib/rakuna/resource/basic.rb",
     "lib/rakuna/resource/collection.rb",
     "lib/rakuna/resource/item.rb",
+    "rakuna-core.gemspec",
     "spec/rakuna/core_spec.rb",
     "spec/rakuna_spec_.rb",
     "spec/spec_helper.rb"
