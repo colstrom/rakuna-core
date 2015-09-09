@@ -14,14 +14,13 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
-  gem.name = 'rakuna-resource-basic'
-  gem.homepage = "http://github.com/colstrom/rakuna-resource-basic"
+  gem.name = 'rakuna-core'
+  gem.homepage = "http://github.com/colstrom/rakuna-core"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{The tiny heart of Rakuna}
+  gem.description = %Q{Reusable classes and mixins for Webmachine-powered projects. The intent of these is to simplify development, reduce boilerplate code, and support the composition of interesting systems from simple concepts.}
   gem.email = "chris@olstrom.com"
   gem.authors = ["Chris Olstrom"]
-  # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
 
