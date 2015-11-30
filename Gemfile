@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'contracts', '~> 0.11'
+gem 'contracts', '~> 0.12'
 gem 'webmachine', '~> 1.4'
 
 group :development do
