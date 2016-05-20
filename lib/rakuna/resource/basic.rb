@@ -1,4 +1,5 @@
 require 'contracts'
+require 'webmachine'
 require 'webmachine/resource'
 require 'rakuna/accepts/input'
 require 'rakuna/provides/output'
